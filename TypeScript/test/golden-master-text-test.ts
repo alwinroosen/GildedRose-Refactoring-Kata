@@ -1,3 +1,6 @@
+/**
+ * @deprecated, all cases covered in the spec file
+ */
 import { Item, GildedRose } from '../app/gilded-rose';
 
 const items = [
